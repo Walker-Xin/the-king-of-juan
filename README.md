@@ -37,3 +37,10 @@ A repository of learning resources for kings of juan.
 #### Thermal Physics
 
 - Blundell, S. J., & Blundell, K. M. (2010). *Concepts in thermal physics.* Oxford University Press.
+
+#### Mathematical Methods
+
+- Boas, M. L. (2006). *Mathematical Methods in the Physical Sciences (3rd ed.).* John Wiley & Sons.
+- Riley, K. F., Hobson, M. P., & Bence, S. J. (2006). *Mathematical Methods for Physics and Engineering (3rd ed.).* Cambridge University Press.
+- Courant, R., & Hilbert, D. (1989). *Methods of Mathematical Physics (Vol. 1).* John Wiley & Sons.
+

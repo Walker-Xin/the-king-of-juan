@@ -16,7 +16,7 @@ A repository of learning resources for kings of juan.
 #### Mechanics
 
 - Morin, D. (2008). *Introduction to classical mechanics: with problems and solutions.* Cambridge University Press.
-- Landau, L. D., & Lifshitz, E. M. (2013). *Mechanics: Course of Theoretical Physics, Volume 6.* Elsevier.
+- Landau, L. D., & Lifshitz, E. M. (1969). Mechanics: Course of Theoretical Physics (2nd ed., Vol. 1). Pergamon Press.
 
 #### Electromagnetism & Circuit Theory
 

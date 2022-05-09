@@ -16,7 +16,7 @@ A repository of learning resources for kings of juan.
 #### Mechanics
 
 - Morin, D. (2008). *Introduction to classical mechanics: with problems and solutions.* Cambridge University Press.
-- Landau, L. D., & Lifshitz, E. M. (1969). Mechanics: Course of Theoretical Physics (2nd ed., Vol. 1). Pergamon Press.
+- Landau, L. D., & Lifshitz, E. M. (1969). *Mechanics: Course of Theoretical Physics* (2nd ed., Vol. 1). Pergamon Press.
 
 #### Electromagnetism & Circuit Theory
 
@@ -32,7 +32,7 @@ A repository of learning resources for kings of juan.
 #### Quantum Mechanics
 
 - Binney, J., & Skinner, D. (2014). *The physics of quantum mechanics.* Oxford University Press.
-- Griffiths, D. J., & Schroeter, D. F. (2018). *Introduction to quantum mechanics.* Cambridge university press.
+- Griffiths, D. J., & Schroeter, D. F. (2018). *Introduction to quantum mechanics.* Cambridge University Press.
 
 #### Thermal Physics
 
@@ -40,7 +40,7 @@ A repository of learning resources for kings of juan.
 
 #### Mathematical Methods
 
-- Boas, M. L. (2006). *Mathematical Methods in the Physical Sciences (3rd ed.).* John Wiley & Sons.
-- Riley, K. F., Hobson, M. P., & Bence, S. J. (2006). *Mathematical Methods for Physics and Engineering (3rd ed.).* Cambridge University Press.
-- Courant, R., & Hilbert, D. (1989). *Methods of Mathematical Physics (Vol. 1).* John Wiley & Sons.
+- Boas, M. L. (2006). *Mathematical Methods in the Physical Sciences* (3rd ed.). John Wiley & Sons.
+- Riley, K. F., Hobson, M. P., & Bence, S. J. (2006). *Mathematical Methods for Physics and Engineering* (3rd ed.). Cambridge University Press.
+- Courant, R., & Hilbert, D. (1989). *Methods of Mathematical Physics* (Vol. 1). John Wiley & Sons.
 
